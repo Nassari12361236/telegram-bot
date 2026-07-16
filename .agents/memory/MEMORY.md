@@ -1,0 +1,1 @@
+- [Telegram ConversationHandler restart](telegram-conversation-restart.md) — menu buttons that start a flow must also be fallbacks to restart it.

@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "ojnmXO7MjE9hIaKdWmXpL"
+uri = "file://bot_easynet.zip"
+type = "unspecified"
+title = "ربات EasyNet — کد کامل"
